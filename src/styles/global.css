@@ -1,6 +1,6 @@
 html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
+  background-color: #f7dcf0;
+  font-family: minecraft;
 }
 
 body {
@@ -31,14 +31,14 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: #994c7b;
 }
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
+  background-color: #855171;
   display: none;
   margin: 0;
 }
@@ -54,7 +54,7 @@ h1 {
 }
 
 .nav-links a:hover, a:focus {
-  background-color: #ff9776;
+  background-color: #febbe1;
 }
 
 .expanded {
